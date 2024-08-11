@@ -1,0 +1,5 @@
+name: stonegenerator
+version: '1.0'
+main: pl.sxbrsky.stonegenerator.StoneGenerator
+api-version: '1.21'
+authors: [ Dominik Szamburski ]
